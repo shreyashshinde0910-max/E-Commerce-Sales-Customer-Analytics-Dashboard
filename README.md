@@ -21,10 +21,10 @@ Build an interactive dashboard for business decision-making.
 
 🛠️ Tech Stack
 
-Technology	Purpose
-Python	Data Cleaning & Preprocessing
-Pandas	Data Manipulation
-Matplotlib	Data Visualization
+--Technology	Purpose
+--Python	Data Cleaning & Preprocessing
+--Pandas	Data Manipulation
+--Matplotlib	Data Visualization
 Seaborn	Exploratory Data Analysis
 PostgreSQL	Database Management
 SQL	Business Analysis
