@@ -193,6 +193,7 @@ E-Commerce-Analytics-Dashboard/
 
 https://github.com/shreyashshinde0910-max/E-Commerce-Sales-Customer-Analytics-Dashboard/blob/main/Dashboard_Preview.png
 
-Screenshots
+📊 Screenshots
 
+https://github.com/shreyashshinde0910-max/E-Commerce-Sales-Customer-Analytics-Dashboard/blob/main/Data_Visualization_Screenshot.zip
 
