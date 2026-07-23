@@ -130,32 +130,6 @@ Dashboard Features
 --Analyzed preferred payment methods.
 --Compared shipping performance across delivery modes.
 
-📁 Project Structure
-
-E-Commerce-Analytics-Dashboard/
-│
-├── Data/
-│   ├── Customers.csv
-│   ├── Orders.csv
-│   └── Products.csv
-│
-├── Python/
-│   ├── Data_Cleaning.ipynb
-│   └── Data_Cleaning.py
-│
-├── SQL/
-│   ├── Database_Setup.sql
-│   └── Business_Queries.sql
-│
-├── PowerBI/
-│   └── ECommerce_Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── README.md
-└── requirements.txt
-
 🚀 How to Run
 
 --Clone the repository.
