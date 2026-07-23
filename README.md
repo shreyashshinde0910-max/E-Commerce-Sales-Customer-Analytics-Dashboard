@@ -191,9 +191,8 @@ E-Commerce-Analytics-Dashboard/
 
 📈 Dashboard Preview
 
-Add a screenshot of your Power BI dashboard here.
+https://github.com/shreyashshinde0910-max/E-Commerce-Sales-Customer-Analytics-Dashboard/blob/main/Dashboard_Preview.png
+
+Screenshots
 
 
-Project_Workflow.png (workflow diagram)
-
-These visuals help recruiters quickly understand your project and make the repository more engaging.
