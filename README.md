@@ -11,7 +11,7 @@ The project was built using Python, PostgreSQL, SQL, and Power BI to showcase pr
 
 🎯 Objectives
 
-Analyze overall sales and profitability.
+--Analyze overall sales and profitability.--
 Track monthly and quarterly sales performance.
 Identify top-performing products and categories.
 Analyze customer purchasing behavior.
